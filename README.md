@@ -1,5 +1,5 @@
 # BetterEnemyLoot
-A mod for Road to Vostok that gives AI enemies a configurable chance to carry consumables, medical supplies, magazines, and loose ammo matching their weapon's caliber. By default enemies are just another loot container, so are generally empty and don't have any special rules governing what they're holding, so this mod is intended to make looting bodies more worthwhile and logical.
+A mod for Road to Vostok that gives AI enemies a configurable chance to carry consumables, medical supplies, magazines, and loose ammo matching their weapon's caliber. By default enemies are just another loot container, so are generally empty and don't have any special rules governing what they're holding. This mod is intended to make looting bodies more worthwhile and logical.
 
 Settings are exposed through the Mod Configuration Menu (MCM), letting you tune spawn rates and quantities for each loot category independently.
 
