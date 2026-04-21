@@ -1,0 +1,11 @@
+[mod]
+name="Better Enemy Loot"
+id="BetterEnemyLoot"
+version="1.0.2"
+
+[autoload]
+BetterEnemyLootConfig="res://BetterEnemyLoot/ModConfig.gd"
+BetterEnemyLoot="res://BetterEnemyLoot/Main.gd"
+
+[updates]
+modworkshop=56230
